@@ -2,7 +2,7 @@
 # This is code to create: The SEG Shiny app
 # Authored by and feedback to mjfrigaard@gmail.com
 # MIT License
-# Version: 1.3.2 ----
+# Version: 1.3.3 ----
 # =====================================================================#
 # This is a Shiny web application. You can run the application by clicking
 # the 'Run App' button above.
